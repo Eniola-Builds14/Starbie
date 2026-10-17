@@ -1,5 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-XIAO ESP32-C3,1,Seeed studio,$4.90,$4.90,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+XIAO ESP32-C3,1,Robot shop,$5.95,$5.95,https://www.robotshop.com/products/seeedstudio-xiao-esp32c3-tiny-mcu-w-wi-fi-ble?_gl=1*542fe1*_gcl_aw*R0NMLjE3OTIxOTc1NjkuQ2owS0NRandsc2ZXQmhENEFSSXNBQ0w3cDFHUVp4ZjRRSkVmUF8yT2dUU3kxTWhSV3NkaW0yZ09WaEp1OFFGQ3FiVkhpNW5iNURhcHhrRWFBaTNaRUFMd193Y0I.*_gcl_au*MTEzMTI5MjcyOC4xNzkyMTk3MDg3Li0uLS4xNzkyMTk3MTQ2LjgxMjUzNDU4Ny4xNzkyMTk3MTQ3LjE3OTIxOTcxNDk.*_ga*MTE5NDg1ODc0MS4xNzkyMTk3MDg4*_ga_FXHVC4EYRV*czE3OTIxOTcwODckbzEkZzEkdDE3OTIxOTc1NjkkajYwJGwwJGgw
 DHT11,1,LCSC,$1.38,$1.38,https://www.lcsc.com/product-detail/C117051.html?s_z=s_p_x_DHT11
 4 pin female header,1,BC Robotics,$0.25,$0.25,https://bc-robotics.com/shop/female-header-4-pin/?srsltid=AU7gw4WZR1eGv-rRPqmvrs4aWgyObJyOc0P_F8hmSoklW2Ps0eBw6O5z
 8 pin female header,1,BC Robotics,$0.25,$0.25,https://bc-robotics.com/shop/14-5mm-strip-8-ways/
