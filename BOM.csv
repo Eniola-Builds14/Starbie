@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 XIAO ESP32-C3,1,Seeed studio,$4.90,$4.90,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+DHT11,1,LCSC,$1.38,$1.38,https://www.lcsc.com/product-detail/C117051.html?s_z=s_p_x_DHT11
 Estimated total shipping,1,,,$0.00,
